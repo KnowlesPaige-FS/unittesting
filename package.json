@@ -1,0 +1,16 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "main": "card.test.js",
+  "scripts": {
+    "dev": "card.test.js",
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Paige Knowles",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
